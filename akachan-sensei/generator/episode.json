@@ -1,0 +1,40 @@
+{
+  "title": "赤ちゃん先生 第1話",
+  "subtitle": "寝る前のNG・OK",
+  "clips": [
+    { "file": "01_hook.mp4", "start": 0.0, "end": 7.93, "sfx": [["pop", 0.05]],
+      "overlays": [
+        { "kind": "title", "start": 0.0, "end": 3.5 },
+        { "kind": "tag", "start": 3.5, "end": 7.93 },
+        { "kind": "sub", "text": "布団でスマホ、\nダメでちゅよ！", "hl": "ダメ", "start": 0.2, "end": 3.65 },
+        { "kind": "sub", "text": "ねむりが\nあさくなっちゃうの", "hl": "あさく", "start": 3.85, "end": 7.8 }
+      ] },
+    { "file": "02_ng.mp4", "start": 0.0, "end": 7.93, "sfx": [["buzz", 0.15]],
+      "overlays": [
+        { "kind": "tag", "start": 0.0, "end": 7.93 },
+        { "kind": "label", "text": "✕ NG", "color": "ng", "start": 0.0, "end": 7.93 },
+        { "kind": "sub", "text": "ねる前に いっぱい食べるのも\nダメでちゅ〜", "hl": "ダメ", "start": 1.7, "end": 5.3 },
+        { "kind": "note", "text": "胃が働いて、眠りが浅くなりやすい", "start": 5.3, "end": 7.9 }
+      ] },
+    { "file": "03_ok.mp4", "start": 1.5, "end": 7.93, "sfx": [["chime", 0.1]],
+      "overlays": [
+        { "kind": "tag", "start": 0.0, "end": 6.43 },
+        { "kind": "label", "text": "○ OK", "color": "ok", "start": 0.0, "end": 6.43 },
+        { "kind": "sub", "text": "ふぁ〜…", "start": 0.4, "end": 2.6 },
+        { "kind": "sub", "text": "お部屋をくらくすると\nねむねむ〜", "hl": "くらく", "start": 2.75, "end": 6.4 },
+        { "kind": "note", "text": "明かりを落とすと、眠る準備が進む", "start": 3.6, "end": 6.4 }
+      ] },
+    { "file": "04_oyasumi.mp4", "start": 2.5, "end": 7.93, "sfx": [["pop", 0.9]],
+      "overlays": [
+        { "kind": "tag", "start": 0.0, "end": 5.43 },
+        { "kind": "pill", "text": "📌 保存して今夜ためしてね", "start": 0.8, "end": 5.43 },
+        { "kind": "sub", "text": "ほぞんしてね、\nおやすみ〜", "hl": "ほぞん", "start": 2.2, "end": 5.4 }
+      ] },
+    { "file": "05_twist.mp4", "start": 1.0, "end": 7.93, "sfx": [["ding", 1.4], ["pop", 4.9]],
+      "overlays": [
+        { "kind": "tag", "start": 0.0, "end": 6.93 },
+        { "kind": "sub", "text": "…ちょっとだけ…", "start": 3.4, "end": 6.9 },
+        { "kind": "pill", "text": "先生もスマホの誘惑には勝てない😂", "start": 4.9, "end": 6.93 }
+      ] }
+  ]
+}
