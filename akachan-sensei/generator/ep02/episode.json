@@ -1,0 +1,40 @@
+{
+  "title": "赤ちゃん先生 第2話",
+  "subtitle": "朝のNG・OK",
+  "clips": [
+    { "file": "01_hook.mp4", "start": 0.0, "end": 7.93, "sfx": [["pop", 0.05], ["whoosh", 4.5]],
+      "overlays": [
+        { "kind": "title", "start": 0.0, "end": 3.5 },
+        { "kind": "tag", "start": 3.5, "end": 7.93 },
+        { "kind": "sub", "text": "おきてすぐスマホ、\nダメでちゅよ！", "hl": "ダメ", "start": 0.2, "end": 4.5 },
+        { "kind": "sub", "text": "朝のすごし方、\nおしえまちゅ！", "hl": "朝", "start": 4.6, "end": 7.85 }
+      ] },
+    { "file": "02_ng.mp4", "start": 0.0, "end": 7.93, "sfx": [["buzz", 0.15], ["thud", 4.3]],
+      "overlays": [
+        { "kind": "tag", "start": 0.0, "end": 7.93 },
+        { "kind": "label", "text": "✕ NG", "color": "ng", "start": 0.0, "end": 7.93 },
+        { "kind": "sub", "text": "あさいちばんにスマホみると\nあたまがぼーっとするの〜", "hl": "ぼーっと", "start": 0.3, "end": 5.0 },
+        { "kind": "note", "text": "寝起きすぐの画面は、目も頭もつかれやすい", "start": 5.0, "end": 7.9 }
+      ] },
+    { "file": "03_ok.mp4", "start": 0.5, "end": 7.2, "sfx": [["chime", 0.1]],
+      "overlays": [
+        { "kind": "tag", "start": 0.0, "end": 6.7 },
+        { "kind": "label", "text": "○ OK", "color": "ok", "start": 0.0, "end": 6.7 },
+        { "kind": "sub", "text": "んー…っ！", "start": 0.1, "end": 1.6 },
+        { "kind": "sub", "text": "おひさまあびると\nシャキッとおきれるの！", "hl": "シャキッ", "start": 1.7, "end": 6.6 },
+        { "kind": "note", "text": "朝の光で、体内時計がリセットされる", "start": 3.0, "end": 6.6 }
+      ] },
+    { "file": "04_hozon.mp4", "start": 0.0, "end": 7.5, "sfx": [["pop", 1.2]],
+      "overlays": [
+        { "kind": "tag", "start": 0.0, "end": 7.5 },
+        { "kind": "pill", "text": "📌 保存して明日の朝ためしてね", "start": 0.6, "end": 7.5 },
+        { "kind": "sub", "text": "ほぞんしてね、\nあしたのあさ ためしてね〜", "hl": "ほぞん", "start": 0.4, "end": 7.2 }
+      ] },
+    { "file": "05_twist.mp4", "start": 1.0, "end": 7.93, "sfx": [["ding", 3.9], ["pop", 4.9]],
+      "overlays": [
+        { "kind": "tag", "start": 0.0, "end": 6.93 },
+        { "kind": "sub", "text": "…あ、あと5ふんだけ…", "hl": "5ふん", "start": 4.5, "end": 6.9 },
+        { "kind": "pill", "text": "先生も朝スマホやめられない😂", "start": 4.9, "end": 6.93 }
+      ] }
+  ]
+}

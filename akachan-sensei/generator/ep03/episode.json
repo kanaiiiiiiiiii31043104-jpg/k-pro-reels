@@ -1,0 +1,41 @@
+{
+  "title": "赤ちゃん先生 第3話",
+  "subtitle": "ごはんのNG・OK",
+  "clips": [
+    { "file": "01_hook.mp4", "start": 0.0, "end": 7.5, "sfx": [["pop", 0.05], ["whoosh", 4.2]],
+      "overlays": [
+        { "kind": "title", "start": 0.0, "end": 3.5 },
+        { "kind": "tag", "start": 3.5, "end": 7.5 },
+        { "kind": "sub", "text": "ごはん中のスマホ、\nダメでちゅよ！", "hl": "ダメ", "start": 0.3, "end": 4.2 },
+        { "kind": "sub", "text": "なんでか、\nおしえまちゅ！", "hl": "なんで", "start": 4.3, "end": 7.4 }
+      ] },
+    { "file": "02_ng.mp4", "start": 0.0, "end": 7.93, "sfx": [["buzz", 0.15], ["thud", 2.6]],
+      "overlays": [
+        { "kind": "tag", "start": 0.0, "end": 7.93 },
+        { "kind": "label", "text": "✕ NG", "color": "ng", "start": 0.0, "end": 7.93 },
+        { "kind": "sub", "text": "（ポロポロ…）", "start": 0.4, "end": 2.7 },
+        { "kind": "sub", "text": "スマホみながらだと、\nごはんのあじ わかんないの〜", "hl": "わかんない", "start": 2.8, "end": 7.85 },
+        { "kind": "note", "text": "ながら食べは、食べた量に気づきにくい", "start": 5.0, "end": 7.85 }
+      ] },
+    { "file": "03_ok.mp4", "start": 0.0, "end": 7.93, "sfx": [["chime", 0.1]],
+      "overlays": [
+        { "kind": "tag", "start": 0.0, "end": 7.93 },
+        { "kind": "label", "text": "○ OK", "color": "ok", "start": 0.0, "end": 7.93 },
+        { "kind": "sub", "text": "もぐもぐ…", "start": 0.3, "end": 3.0 },
+        { "kind": "sub", "text": "よくかんでたべると、\nおいちいね〜！", "hl": "よくかんで", "start": 3.1, "end": 7.85 },
+        { "kind": "note", "text": "よく噛むと、おなかいっぱいを感じやすい", "start": 3.6, "end": 7.85 }
+      ] },
+    { "file": "04_hozon.mp4", "start": 0.0, "end": 7.6, "sfx": [["pop", 1.0]],
+      "overlays": [
+        { "kind": "tag", "start": 0.0, "end": 7.6 },
+        { "kind": "pill", "text": "📌 保存して今日のごはんでためしてね", "start": 0.6, "end": 7.6 },
+        { "kind": "sub", "text": "ほぞんしてね、\nきょうのごはんで ためしてね〜", "hl": "ほぞん", "start": 0.6, "end": 7.4 }
+      ] },
+    { "file": "05_twist.mp4", "start": 1.0, "end": 7.93, "sfx": [["ding", 2.6], ["pop", 4.6]],
+      "overlays": [
+        { "kind": "tag", "start": 0.0, "end": 6.93 },
+        { "kind": "sub", "text": "…ごはんのしゃしん、\nとってただけ…", "hl": "しゃしん", "start": 3.0, "end": 6.9 },
+        { "kind": "pill", "text": "先生、ごはんよりスマホ😂", "start": 4.6, "end": 6.93 }
+      ] }
+  ]
+}
