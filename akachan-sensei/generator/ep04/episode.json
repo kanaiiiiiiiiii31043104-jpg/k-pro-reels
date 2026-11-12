@@ -1,0 +1,208 @@
+{
+ "title": "赤ちゃん先生 第4話",
+ "subtitle": "姿勢のNG・OK",
+ "clips": [
+  {
+   "file": "01_hook.mp4",
+   "start": 1.5,
+   "end": 7.2,
+   "sfx": [
+    [
+     "pop",
+     0.05
+    ],
+    [
+     "whoosh",
+     1.75
+    ]
+   ],
+   "overlays": [
+    {
+     "kind": "cover",
+     "start": 0.0,
+     "end": 1.8
+    },
+    {
+     "kind": "tag",
+     "start": 1.8,
+     "end": 5.7
+    },
+    {
+     "kind": "sub",
+     "text": "スマホのとき、\nねこぜダメでちゅよ！",
+     "hl": "ねこぜ",
+     "start": 1.8,
+     "end": 5.6
+    }
+   ]
+  },
+  {
+   "file": "02_ng.mp4",
+   "start": 0.0,
+   "end": 7.93,
+   "pre": "crop=iw*0.86:ih*0.86:iw*0.07:0,",
+   "sfx": [
+    [
+     "buzz",
+     0.15
+    ],
+    [
+     "thud",
+     4.9
+    ]
+   ],
+   "overlays": [
+    {
+     "kind": "tag",
+     "start": 0.0,
+     "end": 7.93
+    },
+    {
+     "kind": "label",
+     "text": "✕ NG",
+     "color": "ng",
+     "start": 0.0,
+     "end": 7.93
+    },
+    {
+     "kind": "sub",
+     "text": "（まるまり〜…）",
+     "start": 0.3,
+     "end": 3.8
+    },
+    {
+     "kind": "sub",
+     "text": "くびが、\nいたいいたいなの〜",
+     "hl": "いたいいたい",
+     "start": 4.9,
+     "end": 7.85
+    },
+    {
+     "kind": "note",
+     "text": "下を向くほど、首への負担が大きくなる",
+     "start": 2.0,
+     "end": 7.85
+    }
+   ]
+  },
+  {
+   "file": "03_ok.mp4",
+   "start": 0.0,
+   "end": 7.93,
+   "sfx": [
+    [
+     "chime",
+     0.1
+    ]
+   ],
+   "overlays": [
+    {
+     "kind": "tag",
+     "start": 0.0,
+     "end": 7.93
+    },
+    {
+     "kind": "label",
+     "text": "○ OK",
+     "color": "ok",
+     "start": 0.0,
+     "end": 7.93
+    },
+    {
+     "kind": "sub",
+     "text": "スマホは おめめのたかさで、\nせなかピーン！",
+     "hl": "ピーン",
+     "start": 0.3,
+     "end": 7.85
+    },
+    {
+     "kind": "note",
+     "text": "画面を目の高さに上げると、首がラクになる",
+     "start": 3.0,
+     "end": 7.85
+    }
+   ]
+  },
+  {
+   "file": "04_hozon.mp4",
+   "start": 0.0,
+   "end": 7.4,
+   "sfx": [
+    [
+     "pop",
+     1.2
+    ]
+   ],
+   "overlays": [
+    {
+     "kind": "tag",
+     "start": 0.0,
+     "end": 7.4
+    },
+    {
+     "kind": "pill",
+     "text": "📌 保存して今からためしてね",
+     "start": 0.6,
+     "end": 7.4
+    },
+    {
+     "kind": "sub",
+     "text": "ほぞんしてね、\nいまから ためしてね〜！",
+     "hl": "ほぞん",
+     "start": 0.4,
+     "end": 7.2
+    }
+   ]
+  },
+  {
+   "file": "05_twist.mp4",
+   "start": 0.0,
+   "end": 7.93,
+   "sfx": [
+    [
+     "ding",
+     0.2
+    ],
+    [
+     "thud",
+     4.4
+    ],
+    [
+     "pop",
+     5.0
+    ]
+   ],
+   "overlays": [
+    {
+     "kind": "tag",
+     "start": 0.0,
+     "end": 7.93
+    },
+    {
+     "kind": "sub",
+     "text": "ピーン…！",
+     "start": 0.2,
+     "end": 2.6
+    },
+    {
+     "kind": "sub",
+     "text": "…ピーンって、\nむずかちい…",
+     "hl": "むずかちい",
+     "start": 5.0,
+     "end": 7.85
+    },
+    {
+     "kind": "pill",
+     "text": "先生、3秒でねこぜに戻る😂",
+     "start": 4.4,
+     "end": 7.93
+    }
+   ]
+  }
+ ],
+ "cover": {
+  "theme": "スマホを見る姿勢",
+  "ng": "下を向いて のぞきこむ",
+  "ok": "目の高さに 上げる"
+ }
+}
