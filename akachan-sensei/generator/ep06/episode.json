@@ -1,0 +1,38 @@
+{
+  "title": "赤ちゃん先生 第6話",
+  "subtitle": "歩きスマホのNG・OK",
+  "cover": {"theme": "歩きスマホ", "ng": "画面を見ながら 歩く", "ok": "立ち止まって 見る"},
+  "clips": [
+    { "file": "00_twist.mp4", "start": 2.4, "end": 5.2, "sfx": [["thud", 1.6]],
+      "overlays": [
+        { "kind": "cover", "start": 0.0, "end": 1.5 },
+        { "kind": "sub", "text": "（ぽてっ…）", "start": 1.5, "end": 2.8 },
+        { "kind": "pill", "text": "これ、やってない？😂", "start": 1.5, "end": 2.8 }
+      ] },
+    { "file": "01_hook.mp4", "start": 0.8, "end": 5.7, "sfx": [["whoosh", 0.0]],
+      "overlays": [
+        { "kind": "tag", "start": 0.0, "end": 4.9 },
+        { "kind": "sub", "text": "あるきスマホ、\nダメでちゅよ！", "hl": "ダメ", "start": 0.1, "end": 4.85 }
+      ] },
+    { "file": "00_twist.mp4", "start": 0.0, "end": 2.4, "sfx": [["buzz", 0.1]],
+      "overlays": [
+        { "kind": "tag", "start": 0.0, "end": 2.4 },
+        { "kind": "label", "text": "✕ NG", "color": "ng", "start": 0.0, "end": 2.4 },
+        { "kind": "sub", "text": "まえ みてないと、\nぶつかっちゃうの〜", "hl": "ぶつかっちゃう", "start": 0.1, "end": 2.35 },
+        { "kind": "note", "text": "歩きスマホは、まわりが見えにくくなる", "start": 0.4, "end": 2.35 }
+      ] },
+    { "file": "03_ok.mp4", "start": 2.0, "end": 7.3, "sfx": [["chime", 0.1]],
+      "overlays": [
+        { "kind": "tag", "start": 0.0, "end": 5.3 },
+        { "kind": "label", "text": "○ OK", "color": "ok", "start": 0.0, "end": 5.3 },
+        { "kind": "sub", "text": "とまって みて、\nあるくときは まえ！", "hl": "とまって", "start": 0.1, "end": 5.25 },
+        { "kind": "note", "text": "見るときは、立ち止まってから", "start": 1.0, "end": 5.25 }
+      ] },
+    { "file": "04_hozon.mp4", "start": 1.8, "end": 6.4, "sfx": [["pop", 0.3]],
+      "overlays": [
+        { "kind": "tag", "start": 0.0, "end": 4.6 },
+        { "kind": "pill", "text": "📌 保存して明日からためしてね", "start": 0.2, "end": 4.6 },
+        { "kind": "sub", "text": "ほぞんしてね、\nあしたから ためしてね〜！", "hl": "ほぞん", "start": 0.2, "end": 4.55 }
+      ] }
+  ]
+}
